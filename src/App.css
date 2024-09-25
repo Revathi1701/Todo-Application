@@ -1,0 +1,13 @@
+.list-group-item{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.heading{
+  text-align: center;
+  
+}
+.button-style{
+  background-color: blue;
+}
